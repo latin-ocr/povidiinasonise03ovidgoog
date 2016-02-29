@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonise03ovidgoog_0012.png"; bbox 0 0 2902 4928; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 488 4210 867 4242">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 488 4210 867 4242">
+     <span class='ocr_line' id='line_1_1' title="bbox 488 4210 867 4242; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 488 4212 589 4241; x_wconf 69' lang='lat' dir='ltr'>mpsun:</span> <span class='ocrx_word' id='word_1_2' title='bbox 602 4210 669 4242; x_wconf 69' lang='lat' dir='ltr'>Tn‘ls</span> <span class='ocrx_word' id='word_1_3' title='bbox 683 4212 703 4240; x_wconf 80' lang='lat' dir='ltr'>B·</span> <span class='ocrx_word' id='word_1_4' title='bbox 713 4212 735 4241; x_wconf 76' lang='lat' dir='ltr'>ss.</span> <span class='ocrx_word' id='word_1_5' title='bbox 743 4211 867 4242; x_wconf 67' lang='lat' dir='ltr'>wvmmm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1456 4928">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1456 4928">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1456 4928; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1456 4928; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
